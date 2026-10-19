@@ -1,0 +1,15 @@
+US-01. Khach hang: dat mon an
+	1. khach goi mon an - con mon an - dat mon an - tao Oder
+	2. khach goi mon an - het mon an - bao het mon
+US-02. Khach hang: thanh toan mon an
+	1. khach hang thanh toan - chua thanh toan - thanh toan - luu
+	2. khach hang thanh toan - da thanh toan - tu choi
+US-03. Nhan vien: xac nhan don hang
+	1. don dang Pending - xac nhan - cap nhat Oder
+	2. don hang da xac nhan - xac nhan - tu choi
+US-04. Quan ly: quan ly nhan vien
+	1. Nhan vien hop le - chinh sua - cap nhat Staff
+	2. Nhan vien khong hop le - chinh sua - tu choi
+US-05. Quan ly: quan ly mon an
+	1. Mon an hop le - chinh sua - cap nhat Food
+	2. Mon an khong hop le - chinh sua - tu choi
